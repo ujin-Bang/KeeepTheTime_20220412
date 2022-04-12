@@ -28,6 +28,7 @@
                 android:textSize="20sp"/>
 
             <TextView
+                android:gravity="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="이 프로젝트는 넵플러스 IT아카데미 \n코틀린/안드로이드 양성반 최종 프로젝트입니다."/>

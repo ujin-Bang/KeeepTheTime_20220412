@@ -1,7 +1,10 @@
 package com.time.keeepthetime_20220412
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import androidx.databinding.DataBindingUtil
 import com.time.keeepthetime_20220412.databinding.ActivitySignInBinding
 
@@ -20,6 +23,8 @@ class SignInActivity : BaseActivity() {
     }
 
     override fun setValues() {
+
+
 
     }
 }
